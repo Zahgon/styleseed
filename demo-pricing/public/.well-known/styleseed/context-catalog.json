@@ -1,7 +1,7 @@
 {
   "schemaVersion": 5,
   "engineVersion": "5.0.0",
-  "engineRevision": "sha256:d68b31a2f4eee111ae3bdce7bc8ba2c0ce3f75f997df736f995c119c9391f564",
+  "engineRevision": "sha256:05d92b67570f83c3a451ba849c085e25281622c610b53bbd3281e398fa90858b",
   "distributionSource": {
     "schemaVersion": 1,
     "channel": "edge",
@@ -10,7 +10,7 @@
   },
   "distributions": {
     "core": {
-      "revision": "sha256:d68b31a2f4eee111ae3bdce7bc8ba2c0ce3f75f997df736f995c119c9391f564",
+      "revision": "sha256:05d92b67570f83c3a451ba849c085e25281622c610b53bbd3281e398fa90858b",
       "files": [
         {
           "path": "LICENSE",
@@ -184,8 +184,8 @@
         },
         {
           "path": "engine/.claude/skills/styleseed/workflows/ss-resolve/scripts/styleseed-doctor.mjs",
-          "sha256": "e56d16e396d2eea67a3639cb3902930ab995bfffda72a284a9f6d81344186ed9",
-          "bytes": 11555
+          "sha256": "8324345d792a67af6957fbc2079d9ec2a663d1a58b751c71639db3ee6d5f45e9",
+          "bytes": 11917
         },
         {
           "path": "engine/.claude/skills/styleseed/workflows/ss-restyle/WORKFLOW.md",
@@ -244,8 +244,8 @@
         },
         {
           "path": "engine/.claude/skills/styleseed/workflows/ss-score/scripts/evidence-gate.mjs",
-          "sha256": "88f28d7b0079e69e9fe3914abb432db9b0bd17da362ca37f985dfdb8e1645f47",
-          "bytes": 17973
+          "sha256": "1dee383239ca6376ca830fad1b010508c93de043e28efa15967824b4e471948b",
+          "bytes": 18076
         },
         {
           "path": "engine/.claude/skills/styleseed/workflows/ss-score/scripts/functional-reporter.mjs",
@@ -490,7 +490,7 @@
       ]
     },
     "skills": {
-      "revision": "sha256:f69df7b826ee12bf82518d6a92e829bf0926c7edf0c50caa31dfa45c7e11be8c",
+      "revision": "sha256:b1dcf5cdfeced12fdd1d0dc04b9caf5e746147daa8768f8cb9db49c3f1281ddd",
       "files": [
         {
           "path": "engine/.claude/skills/styleseed/SKILL.md",
@@ -654,8 +654,8 @@
         },
         {
           "path": "engine/.claude/skills/styleseed/workflows/ss-resolve/scripts/styleseed-doctor.mjs",
-          "sha256": "e56d16e396d2eea67a3639cb3902930ab995bfffda72a284a9f6d81344186ed9",
-          "bytes": 11555
+          "sha256": "8324345d792a67af6957fbc2079d9ec2a663d1a58b751c71639db3ee6d5f45e9",
+          "bytes": 11917
         },
         {
           "path": "engine/.claude/skills/styleseed/workflows/ss-restyle/WORKFLOW.md",
@@ -714,8 +714,8 @@
         },
         {
           "path": "engine/.claude/skills/styleseed/workflows/ss-score/scripts/evidence-gate.mjs",
-          "sha256": "88f28d7b0079e69e9fe3914abb432db9b0bd17da362ca37f985dfdb8e1645f47",
-          "bytes": 17973
+          "sha256": "1dee383239ca6376ca830fad1b010508c93de043e28efa15967824b4e471948b",
+          "bytes": 18076
         },
         {
           "path": "engine/.claude/skills/styleseed/workflows/ss-score/scripts/functional-reporter.mjs",
@@ -998,8 +998,8 @@
     },
     {
       "path": ".claude/skills/styleseed/workflows/ss-resolve/scripts/styleseed-doctor.mjs",
-      "sha256": "e56d16e396d2eea67a3639cb3902930ab995bfffda72a284a9f6d81344186ed9",
-      "bytes": 11555
+      "sha256": "8324345d792a67af6957fbc2079d9ec2a663d1a58b751c71639db3ee6d5f45e9",
+      "bytes": 11917
     },
     {
       "path": ".claude/skills/styleseed/workflows/ss-restyle/WORKFLOW.md",
@@ -1058,8 +1058,8 @@
     },
     {
       "path": ".claude/skills/styleseed/workflows/ss-score/scripts/evidence-gate.mjs",
-      "sha256": "88f28d7b0079e69e9fe3914abb432db9b0bd17da362ca37f985dfdb8e1645f47",
-      "bytes": 17973
+      "sha256": "1dee383239ca6376ca830fad1b010508c93de043e28efa15967824b4e471948b",
+      "bytes": 18076
     },
     {
       "path": ".claude/skills/styleseed/workflows/ss-score/scripts/functional-reporter.mjs",
