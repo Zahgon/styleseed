@@ -1,7 +1,7 @@
 {
   "schemaVersion": 5,
   "engineVersion": "5.0.0",
-  "engineRevision": "sha256:1af250f443f9181bb3c45be7d8ea9739b0a25b67934f28f7a7a4b3d6cca39e92",
+  "engineRevision": "sha256:d68b31a2f4eee111ae3bdce7bc8ba2c0ce3f75f997df736f995c119c9391f564",
   "distributionSource": {
     "schemaVersion": 1,
     "channel": "edge",
@@ -10,7 +10,7 @@
   },
   "distributions": {
     "core": {
-      "revision": "sha256:1af250f443f9181bb3c45be7d8ea9739b0a25b67934f28f7a7a4b3d6cca39e92",
+      "revision": "sha256:d68b31a2f4eee111ae3bdce7bc8ba2c0ce3f75f997df736f995c119c9391f564",
       "files": [
         {
           "path": "LICENSE",
@@ -109,8 +109,8 @@
         },
         {
           "path": "engine/.claude/skills/styleseed/workflows/ss-resolve/references/manifest.schema.json",
-          "sha256": "9d1f4fdebb173c2e8a1ddcf6df0dc2424df8576dc645ce5c0f4086a9ecb58489",
-          "bytes": 2263
+          "sha256": "ab8f7444fc6949ecc9ce9147389f2867e60cab012700c526c6461407ca40e6db",
+          "bytes": 2334
         },
         {
           "path": "engine/.claude/skills/styleseed/workflows/ss-resolve/references/migration.md",
@@ -490,7 +490,7 @@
       ]
     },
     "skills": {
-      "revision": "sha256:539c7a3eaa9c646b546f3c3fd4927da9cdde821f318a8e6128d92e88268f4065",
+      "revision": "sha256:f69df7b826ee12bf82518d6a92e829bf0926c7edf0c50caa31dfa45c7e11be8c",
       "files": [
         {
           "path": "engine/.claude/skills/styleseed/SKILL.md",
@@ -579,8 +579,8 @@
         },
         {
           "path": "engine/.claude/skills/styleseed/workflows/ss-resolve/references/manifest.schema.json",
-          "sha256": "9d1f4fdebb173c2e8a1ddcf6df0dc2424df8576dc645ce5c0f4086a9ecb58489",
-          "bytes": 2263
+          "sha256": "ab8f7444fc6949ecc9ce9147389f2867e60cab012700c526c6461407ca40e6db",
+          "bytes": 2334
         },
         {
           "path": "engine/.claude/skills/styleseed/workflows/ss-resolve/references/migration.md",
@@ -923,8 +923,8 @@
     },
     {
       "path": ".claude/skills/styleseed/workflows/ss-resolve/references/manifest.schema.json",
-      "sha256": "9d1f4fdebb173c2e8a1ddcf6df0dc2424df8576dc645ce5c0f4086a9ecb58489",
-      "bytes": 2263
+      "sha256": "ab8f7444fc6949ecc9ce9147389f2867e60cab012700c526c6461407ca40e6db",
+      "bytes": 2334
     },
     {
       "path": ".claude/skills/styleseed/workflows/ss-resolve/references/migration.md",
